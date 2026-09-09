@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Jack (@davisjack3620) 👋
 
-<!--
-**davisjack3620/davisjack3620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer building indie web apps. Currently focused on shipping lightweight SaaS products and learning distribution the hard way.
 
-Here are some ideas to get you started:
+#### What I'm doing
+- 🔨 Building micro-tools with FastAPI, React, and SQLite (yes, SQLite in production).
+- 📚 Exploring local LLM integrations and lighter frontends.
+- ✍️ Documenting builds, metrics, and failures as I go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stack & Tools
+- **Languages:** TypeScript, Python, SQL
+- **Backend / DB:** FastAPI, Node.js, SQLite, PostgreSQL
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Hosting / Ops:** Docker, Cloudflare, Linux VPS
+
+#### Get in touch
+- Twitter/X: [@davisjack_dev](https://x.com)
+- Email: davisjack3620@gmail.com
+- Web: [davisjack.dev](https://davisjack.dev)
